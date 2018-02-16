@@ -1,0 +1,42 @@
+/* Navigation bar 
+
+.navbar {
+	overflow: hidden;
+	background-color: #c4c1be;
+}
+
+.navbar a {
+	float: left;
+	display: block;
+	color: #0a0a0a;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+	background-colorL #ddd;
+	color: black;
+}
+*/
+body
+{
+	background-color: #f4d7b7
+}
+{
+	font-family: "Arial";
+	font-size: 30px;
+}
+
+h1 {
+	padding-top: 150px;
+}
+
+p {
+	border-style: none;
+	color: grey;
+	background-color: hidden;
+}
+
+	
+	
