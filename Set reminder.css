@@ -1,0 +1,16 @@
+head {
+	padding-left: 50px;
+}
+
+
+body {
+	background-color: #e8e6e5;
+	font-family: "Arial";
+	font-size: 15px;
+}
+
+p {
+	border-style: none;
+	color: grey;
+	background-color: hidden;
+}
